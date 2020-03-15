@@ -1,0 +1,17 @@
+.people-container{
+    display: flex ;
+
+}
+
+.userss{
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+    background-color: lightyellow;
+}
+
+.cart-container{
+    width: 20%;
+    background-color: rgb(223, 223, 219);
+}
